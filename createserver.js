@@ -48,7 +48,7 @@ app.get('/',function (req,res) {
 //     res.send(detail)
 // })
 
-
+// heloo ji mai huuuuuuuuuu
 
 
 
